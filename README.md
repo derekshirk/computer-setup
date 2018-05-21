@@ -14,5 +14,5 @@ A place to document all the things when setting up a new computer machine
 - [ ] Sketch
 - [ ] Spotify
 - [ ] 1password
-- [ ] LICEcap
+- [ ] [LICEcap](https://www.cockos.com/licecap)
 
