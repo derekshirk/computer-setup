@@ -1,7 +1,7 @@
-# computer-setup
+# New Computer Setup
 A place to document all the things when setting up a new computer machine
 
-- [ ] Alfred App
+- [ ] Alfred App - [Favorite Alfred Workflows](https://github.com/derekshirk/alfred-workflows)
 - [ ] Chrome browser
 - [ ] Hyper Terminal App
 - [ ] NPM
