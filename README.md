@@ -14,3 +14,5 @@ A place to document all the things when setting up a new computer machine
 - [ ] Sketch
 - [ ] Spotify
 - [ ] 1password
+- [ ] LICEcap
+
