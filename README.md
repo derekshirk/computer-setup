@@ -24,6 +24,8 @@ A place to document all the things when setting up a new computer machine
 
 ## Fonts
 
+- https://fonts.google.com/specimen/Fira+Mono?selection.family=Fira+Mono
+
 ## Hyper
 
 ## Atom
