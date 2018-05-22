@@ -4,7 +4,7 @@ A place to document all the things when setting up a new computer machine
 - [ ] Chrome browser
 - [ ] Alfred App - [Favorite Alfred Workflows](https://github.com/derekshirk/alfred-workflows)
 - [ ] [Hyper](https://hyper.is) (terminal app)
-- [ ] NPM
+- [ ] Node JS
 - [ ] Contrast App
 - [ ] Bear
 - [ ] Xcode
