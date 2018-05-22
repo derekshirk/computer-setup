@@ -9,6 +9,7 @@ A place to document all the things when setting up a new computer machine
 - [ ] Bear
 - [ ] Xcode
 - [ ] Google Drive
+- [ ] Google File Stream
 - [ ] Fantastical 2
 - [ ] Slack
 - [ ] Sketch
