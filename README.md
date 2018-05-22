@@ -5,6 +5,7 @@ A place to document all the things when setting up a new computer machine
 - [ ] Alfred App - [Favorite Alfred Workflows](https://github.com/derekshirk/alfred-workflows)
 - [ ] [Hyper](https://hyper.is) (terminal app)
 - [ ] Atom
+- [ ] Homebrew
 - [ ] Node JS
 - [ ] Contrast App
 - [ ] Bear
