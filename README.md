@@ -18,3 +18,14 @@ A place to document all the things when setting up a new computer machine
 - [ ] [LICEcap](https://www.cockos.com/licecap)
 - [ ] [Pliim](https://zehfernandes.github.io/pliim) Presentation mode 
 
+## Alfred
+
+## Fonts
+
+## Hyper
+
+## Sketch
+
+
+
+
